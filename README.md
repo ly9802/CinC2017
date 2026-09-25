@@ -1,4 +1,4 @@
-#CinC2017
+# CinC2017
 
 First of all , download dataset from [web site](https//physionet.org/content/challenge-2017/1.0.0/), only download the training2017.zip and REFERENCE-v3.csv, please put both files in the same folder. 
 
