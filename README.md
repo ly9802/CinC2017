@@ -73,13 +73,13 @@ python main.py
 </pre>
 
 
-9. if you don't spend time in training, a well-trained model is provided in the folder "./checkpoints", please run the following command,
+9. If you don't spend time in training, a well-trained model is provided in the folder "./checkpoints", please run the following command,
 <pre>
  python statistic.py 
 </pre>
 
 
-11. if you want to see AUC for all classes and generate ROC curve, please run
+11. If you want to see AUC for all classes and generate ROC curve, please run
 <pre>
   python ROC_AUC.py
 </pre>
